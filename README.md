@@ -5,3 +5,4 @@ I went version by version starting a new version everytime I wanted to add or ch
 All versions are full documented and I did receive help from my cse partner Bryson up until v6 or so. 
 I do one day hope to fully develope it has an app and publish it to the general public.
 I'm not gonna lie it is kinda a mess as of when I'm writing thiis (6/12/22) but i hope to continue working and develping it. 
+To see what the lastest version of the Grade Calc is go to the branch "Lastest Version".
